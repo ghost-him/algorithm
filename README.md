@@ -3,4 +3,4 @@
 
 正在被算法爆杀中...
 
-markdown编辑器为typora, 在github上显示可能会有部分小问题
+markdown编辑器为typora, 在github上显示可能会有部分小问题(指Latex语法的部分)
